@@ -1,3 +1,4 @@
+[![MasterHead](https://cutewallpaper.org/23/android-programming-material-design-wallpaper/migrating-to-material-components-for-android-by-nick-rout-android-developers-medium.jpeg)]
 <h1 align="center">Hi 👋, I'm Mandar Sanghavi</h1>
 <h3 align="center">I am a Passionate Mobile Application Developer.</h3>
 
