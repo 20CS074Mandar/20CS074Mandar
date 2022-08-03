@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20cs074mandar&label=Profile%20views&color=0e75b6&style=flat" alt="20cs074mandar" /> </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=20CS074Mandar&show_icons=true&theme=radical)
-- 🔭 I’m currently working on **MD Hostel**
+- 🔭 I’m currently working on **Hostel Management Project**
 
 - 🌱 I’m currently learning **Flutter,ARCore,Unity,**
 
